@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 18 12:58:50 BRST 2018
+spring-boot-1.5.1.RELEASE.jar>central=
+spring-boot-1.5.1.RELEASE-sources.jar>central=
+spring-boot-1.5.1.RELEASE.pom>central=
