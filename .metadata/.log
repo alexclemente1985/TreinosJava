@@ -7249,3 +7249,60 @@ Binding(CTRL+SHIFT+C,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:43:02.954
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bboITroP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:43:02.955
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.bboITroP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:43:02.956
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:43:02.956
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.bboITroP => OK
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-18 13:43:37.325
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.jface.text 2 0 2019-03-18 13:43:42.604
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.610
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TGyvwhwb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.611
+!MESSAGE subscribing to classpath changes: sts4.classpath.TGyvwhwb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.615
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.615
+!MESSAGE subsribers = [sts4.classpath.TGyvwhwb]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.616
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.618
+!MESSAGE project HelloSpringBoot ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.620
+!MESSAGE Preparing classpath changed notification HelloSpringBoot
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.621
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.623
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.623
+!MESSAGE executing callback sts4.classpath.TGyvwhwb HelloSpringBoot false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.624
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.624
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TGyvwhwb => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-03-18 13:48:37.866
+!MESSAGE executing callback sts4.classpath.TGyvwhwb SUCCESS [done]
