@@ -1,0 +1,3 @@
+Caso se troque o ArtifactId da aplicação Spring MVC, vc deverá fazer um file search com o valor antigo para poder verificar os locais que não foram atualizados;
+Deverão ser 2 locais: server.xml e settings;
+Nestes, trocar o path do Context docBase (server.xml) e o valor de context-root em org.eclipse.wst.common.component (além do valor de wb-module deploy-name) para evitar quaisquer bugs que possam ser gerados

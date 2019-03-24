@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/home/alexandre/Documentos/cursos/TreinaWeb/javaMVC/treinoMVC3/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4029239676.index
+/TreinaWebSpringMVC/src
