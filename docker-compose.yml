@@ -1,0 +1,16 @@
+version: '3.4'
+services:
+    database:
+        image: mysql-jdbc
+        restart: always
+        ports:
+           - '3306:3036'
+        environment:
+           MYSQL_ROOT_PASSWORD: 'password'
+           MYSQL_DATABASE: 'agenda'
+           MYSQL_USER: 'alex_tw'
+           MYSQL_PASSWORD: 'password'
+        volumes:
+           - db:/var/lib/mysql
+volumes:
+     db:
